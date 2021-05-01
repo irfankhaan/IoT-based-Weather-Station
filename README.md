@@ -1,5 +1,5 @@
 # IoT based Weather Station
-This project shows current weather condition on a LCD and pushes the data to a Google Firebase real-time database from where it can be displayed on a web/mobile application or be used for various other purposes .
+This project shows current weather condition on a LCD and pushes the data to a Google Firebase real-time database from where it can be displayed on a web/mobile application or be used for various other purposes.
 
 ## Tech Stack
 * [Arduino IDE](https://www.arduino.cc/en/software)
@@ -15,4 +15,4 @@ This project shows current weather condition on a LCD and pushes the data to a G
 ### Schematic for general usage 
 ![IoT based Weather Station WORKING](https://github.com/irfankhaan/IoT-based-Weather-Station/blob/main/weather_station_schematic_bb.png)
 ### Schematic for uploading code to ESP 8266
-![while uploading code to ESP 8266](https://github.com/irfankhaan/IoT-based-Weather-Station/blob/main/upload_to_esp_schematic_bb.png)
+![while uploading code to ESP8266](https://github.com/irfankhaan/IoT-based-Weather-Station/blob/main/upload_to_esp_schematic_bb.png)
