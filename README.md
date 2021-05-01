@@ -14,5 +14,5 @@ This project shows current weather condition on a LCD and pushes the data to a G
 ## Schematics
 ### Schematic for general usage 
 ![IoT based Weather Station WORKING](https://github.com/irfankhaan/IoT-based-Weather-Station/blob/main/weather_station_schematic_bb.png)
-### Schematic for uploading code to ESP 8266
+### Schematic for uploading code to ESP8266
 ![while uploading code to ESP8266](https://github.com/irfankhaan/IoT-based-Weather-Station/blob/main/upload_to_esp_schematic_bb.png)
